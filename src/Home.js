@@ -12,7 +12,7 @@ const Home=() => {
     <br />
    <Typewriter
   options={{
-    strings: ['Anukriti Rath', 'Ugly'],
+    strings: ['Test', 'Text'],
     autoStart: true,
     pauseFor:1000,
     loop: true,
